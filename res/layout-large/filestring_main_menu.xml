@@ -15,9 +15,10 @@
 
         <Button
             android:id="@+id/button_menu1"
-            android:layout_width="100dp"
-            android:layout_height="wrap_content" 
-            android:text="@string/sent_file"/>
+            android:layout_width="130dp"
+            android:layout_height="45dp" 
+            android:text="@string/sent_file"
+            android:background="@drawable/line_color_button_sent_files"/>
     </LinearLayout>
 
     <LinearLayout
@@ -30,8 +31,9 @@
 
         <Button
             android:id="@+id/button_menu2"
-            android:layout_width="100dp"
-            android:layout_height="wrap_content"
-            android:text="@string/received_file"/>
+            android:layout_width="130dp"
+            android:layout_height="45dp"
+            android:text="@string/received_file"
+            android:background="@drawable/line_color_button_received_files"/>
     </LinearLayout>
 </LinearLayout>
