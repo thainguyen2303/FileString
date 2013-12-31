@@ -9,8 +9,8 @@
       android:dashWidth="0dp"
       android:dashGap="0dp"
       android:width="0.1dp"
-      android:color="#00BFFF"/>
+      android:color="#1E90FF"/>
   <solid
-      android:color="#00BFFF"
+      android:color="#1E90FF"
       />
 </shape>
